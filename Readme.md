@@ -1,116 +1,70 @@
 # 🏏 Cricket Tournament App
 
-A modern and user-friendly application for managing cricket tournaments.
-This app allows users to authenticate, view live dashboards, create tournaments, manage profiles, and customize settings—all in one place.
+A modern app for managing cricket tournaments — authentication, dashboard, tournament creation, settings & profile.
 
 ---
 
-## 🚀 **Demo Video**
+## 🎥 App Preview (Video)
 
-> **App Preview — What you see when the app opens**
+> This video will play directly inside the README (GitHub supports embedded MP4).
 
-[Click to watch video](./assets/app-preview.mp4)
-*(Or upload video file and replace link/path above)*
+[https://github.com/team-up-beta/beta/docs/launch.mp4 ]
 
----
-
-## 📸 **Screenshots**
-
-> Upload your screenshots in the `assets/` or `screenshots/` folder and update the paths below.
-
-### 🔐 **Authentication**
-
-![Authentication](./screenshots/authentication.png)
-
-### 🏠 **Home Dashboard**
-
-![Home Dashboard](./screenshots/dashboard.png)
-
-### 🏆 **Create Tournament**
-
-![Create Tournament](./screenshots/create-tournament.png)
-
-### ⚙️ **Settings**
-
-![Settings](./screenshots/settings.png)
-
-### 👤 **Profile**
-
-![Profile](./screenshots/profile.png)
+*(If not autoplaying, GitHub will show a built-in video player)*
 
 ---
 
-## 📘 **Features**
+## 📸 Screenshots
 
-* ✔ User Authentication (Login / Signup)
-* ✔ Home Dashboard showing live activity
-* ✔ Create & Manage Tournaments
-* ✔ Player and Team management
-* ✔ Profile Editing
-* ✔ App Settings & Customization
-* ✔ Clean UI & smooth experience
+### 🔐 Authentication
+<p align="center">
+  <img src="assets/authentication.png" width="300" />
+</p>
+
+### 🏠 Dashboard
+<p align="center">
+  <img src="assets/dashboard.png" width="300" />
+</p>
+
+### 🏆 Create Tournament
+<p align="center">
+  <img src="assets/create-tournament.png" width="300" />
+</p>
+
+### ⚙️ Settings
+<p align="center">
+  <img src="assets/settings.png" width="300" />
+</p>
+
+### 👤 Profile
+<p align="center">
+  <img src="assets/profile.png" width="300" />
+</p>
 
 ---
 
-## 🛠 **Tech Stack**
+## ⭐ Features
 
-* **Frontend:** Flutter / React Native / (write your stack)
-* **Backend:** Node.js / Go / Firebase / (write your stack)
-* **Database:** Firestore / MongoDB / MySQL / (write your DB)
+- User Authentication  
+- Dashboard Overview  
+- Create & Manage Tournaments  
+- Team & Player Management  
+- Profile Controls  
+- App Settings  
+- Clean & Responsive UI  
 
 ---
 
-## 📦 **Installation**
+## 🧩 Tech Stack
+
+- Frontend: Flutter / React Native  
+- Backend: Firebase / Node.js  
+- Database: Firestore / MongoDB  
+
+---
+
+## 🚀 Installation
 
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-or
-
-```bash
-flutter pub get
-```
-
----
-
-## ▶️ **Run the App**
-
-```bash
-npm start
-```
-
-or
-
-```bash
-flutter run
-```
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🙌 Contributing
-
-Pull requests are welcome!
-For major changes, open an issue first to discuss what you’d like to change.
-
----
-
-## 📧 Contact
-
-For queries or collaboration, contact:
-**[Your Name]**
-Email: [[your@email.com](mailto:your@email.com)]
-

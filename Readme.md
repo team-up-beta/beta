@@ -18,7 +18,7 @@ A modern app for managing cricket tournaments — authentication, dashboard, tou
 
 ### 🔐 Signup / Signin
 <p align="center">
-  <img src="docs/launch.mp4" width="300" />
+  <img src="docs/launch-gif.mp4" width="300" />
 </p>
 
 

@@ -18,7 +18,7 @@ A modern app for managing cricket tournaments — authentication, dashboard, tou
 
 ### 🔐 Authentication
 <p align="center">
-  <img src="assets/authentication.png" width="300" />
+  <img src="(https://github.com/team-up-beta/beta/blob/main/docs/apply-filters.jpeg)" width="300" />
 </p>
 
 ### 🏠 Dashboard

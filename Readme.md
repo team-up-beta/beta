@@ -8,7 +8,7 @@ A modern app for managing cricket tournaments — authentication, dashboard, tou
 
 > This video will play directly inside the README (GitHub supports embedded MP4).
 
-[https://github.com/team-up-beta/beta/docs/launch.mp4 ]
+[ https://raw.githubusercontent.com/team-up-beta/beta/refs/heads/main/docs/apply-filters.jpeg ]
 
 *(If not autoplaying, GitHub will show a built-in video player)*
 

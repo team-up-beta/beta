@@ -1,6 +1,6 @@
 ###  Launch Teamup App
 <p align="center">
-  <img src="docs/launch.mp4" width="300" />
+  <img src="docs/launch.jpeg" width="300" />
 </p>
 
 

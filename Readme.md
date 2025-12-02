@@ -1,19 +1,3 @@
-# 🏏 Cricket Tournament App
-
-A modern app for managing cricket tournaments — authentication, dashboard, tournament creation, settings & profile.
-
----
-
-## 🎥 App Preview (Video)
-
-> This video will play directly inside the README (GitHub supports embedded MP4).
-
-[ (https://raw.githubusercontent.com/team-up-beta/beta/refs/heads/main/docs/launch-gif.mp4) ]
-
-*(If not autoplaying, GitHub will show a built-in video player)*
-
----
-
 
 ###  Dashboard
 <p align="center">

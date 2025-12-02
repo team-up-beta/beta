@@ -16,14 +16,15 @@ A modern app for managing cricket tournaments — authentication, dashboard, tou
 
 ## 📸 Screenshots
 
-### 🔐 Authentication
+### 🔐 Signup / Signin
 <p align="center">
-  <img src="docs/apply-filters.jpeg" width="300" />
+  <img src="docs/launch.mp4" width="300" />
 </p>
+
 
 ### 🏠 Dashboard
 <p align="center">
-  <img src="assets/dashboard.png" width="300" />
+  <img src="docs/dashboard-homepage.jpeg" width="300" />
 </p>
 
 ### 🏆 Create Tournament

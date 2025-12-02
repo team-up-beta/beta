@@ -1,3 +1,8 @@
+###  Launch Teamup App
+<p align="center">
+  <img src="docs/launch.mp4" width="300" />
+</p>
+
 
 ###  Dashboard
 <p align="center">

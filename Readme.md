@@ -8,7 +8,7 @@ A modern app for managing cricket tournaments — authentication, dashboard, tou
 
 > This video will play directly inside the README (GitHub supports embedded MP4).
 
-[ https://raw.githubusercontent.com/team-up-beta/beta/refs/heads/main/docs/apply-filters.jpeg ]
+[ https://raw.githubusercontent.com/team-up-beta/beta/refs/heads/main/docs/launch-gif.mp4 ]
 
 *(If not autoplaying, GitHub will show a built-in video player)*
 
@@ -22,24 +22,36 @@ A modern app for managing cricket tournaments — authentication, dashboard, tou
 </p>
 
 
-### 🏠 Dashboard
+###  Dashboard
 <p align="center">
   <img src="docs/dashboard-homepage.jpeg" width="300" />
 </p>
 
-### 🏆 Create Tournament
+###  Tournament Filtering
 <p align="center">
-  <img src="assets/create-tournament.png" width="300" />
+  <img src="docs/apply-filters.jpeg" width="300" />
 </p>
 
-### ⚙️ Settings
+
+###  Create Tournament
 <p align="center">
-  <img src="assets/settings.png" width="300" />
+  <img src="docs/create-tournament.jpeg" width="300" />
 </p>
 
-### 👤 Profile
+###  Created Tournament Checking
 <p align="center">
-  <img src="assets/profile.png" width="300" />
+  <img src="docs/created-tournament-profile.jpeg" width="300" />
+</p>
+
+
+###  Settings
+<p align="center">
+  <img src="docs/setting-page.jpeg" width="300" />
+</p>
+
+###  Profile
+<p align="center">
+  <img src="docs/edit-profile.jpeg" width="300" />
 </p>
 
 ---
